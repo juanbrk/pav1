@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AplicacionVB1", "AplicacionVB1\AplicacionVB1.vbproj", "{276CF611-5434-4F83-A093-F003728EAF69}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Carpeta de prueba", "Carpeta de prueba", "{C220FA61-418E-4439-88EC-126E76C118EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
